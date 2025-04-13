@@ -1,5 +1,5 @@
 # Gaming Zone
-(Gaming Zone)[https://projectgamingzone.netlify.app/] foi uma atividade prática desenvolvida como parte do curso FullStack de Codificação Front-End do SENAI.
+[Gaming Zone](https://projectgamingzone.netlify.app/) foi uma atividade prática desenvolvida como parte do curso FullStack de Codificação Front-End do SENAI.
 
 ---
 
