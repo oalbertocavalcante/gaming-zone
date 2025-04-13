@@ -1,4 +1,4 @@
-# gaming-zone
+# (Gaming Zone)[https://projectgamingzone.netlify.app/]
 Atividade prática desenvolvida como parte do curso FullStack de Codificação Front-End do SENAI.
 
 ---
